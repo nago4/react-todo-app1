@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://nago4.github.io/react-todo-app",
+  "homepage": "https://nago4.github.io/react-todo-app1",
   "scripts": {
   "dev": "vite",
   "build": "tsc -b && vite build",
